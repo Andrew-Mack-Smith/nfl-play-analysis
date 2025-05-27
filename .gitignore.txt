@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.joblib
+*.pt
+.DS_Store
+.vscode/
+*.mp4
+*.avi
+*.log

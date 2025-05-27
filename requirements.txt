@@ -1,0 +1,9 @@
+opencv-python==4.11.0
+pandas==2.2.0
+numpy==1.26.4
+joblib==1.3.2
+ultralytics==8.3.143
+deep_sort_realtime==1.3.2
+# torch==2.7.0+cu118 requires manual install: 
+# pip install torch==2.7.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+
